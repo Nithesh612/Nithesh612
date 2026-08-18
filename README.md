@@ -1,7 +1,3 @@
-<!-- Banner -->
-
-![Nithesh Kumar R Banner Image](./banner.png)
-
 <!-- Night Owl Image -->
 
 <div>
